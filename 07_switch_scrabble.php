@@ -8,34 +8,42 @@ for($i = 0; $i <strlen($woord); $i++){
 		case "Q":
 			$punten += 10;
 			echo "Goedzo, je krijgt 10 punten!";
+			echo "<br>";
 			break;
 		case "U":
 			$punten += 4;
 			echo "Goedzo, je krijgt 4 punten!";
+			echo "<br>";
 			break;
 		case "O":
 			$punten += 1;
 			echo "Goedzo, je krijgt 1 punt!";
+			echo "<br>";
 			break;
 		case "T":
 			$punten += 2;
 			echo "Goedzo, je krijgt 2 punten!";
+			echo "<br>";
 			break;
 		case "E":
 			$punten += 1;
 			echo "Goedzo, je krijgt 1 punt!";
+			echo "<br>";
 			break;
 		case "R":
 			$punten += 2;
 			echo "Goedzo, je krijgt 2 punten!";
+			echo "<br>";
 			break;
 		case "I":
 			$punten += 1;
 			echo "Goedzo, je krijgt 1 punt!";
+			echo "<br>";
 			break;
 		case "N":
 			$punten += 1;
 			echo "Goedzo, je krijgt 1 punt!";
+			echo "<br>";
 			break;
 	}
 }
